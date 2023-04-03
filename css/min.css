@@ -1,0 +1,37 @@
+body{
+	background: #F2F4F4 !important;
+}
+
+.styleDiv{
+  margin-top: 30px;
+  margin-left:30px ;
+  margin-right: 30px;
+	width: 100px !important;
+	height: 40px;
+	background: #85C1E9;
+	vertical-align: middle  !important;
+	border-radius: 50px;
+}
+
+.styleDiv2{
+  margin-top: 30px;
+  margin-left:30px ;
+  margin-right: 30px;
+	width: 100px !important;
+	height: 40px;
+	background: #A3E4D7;
+	vertical-align: middle  !important;
+	border-radius: 50px;
+}
+
+.colorYellow{
+	color: yellow;
+}
+
+.colorRed{
+	color: red;
+}
+.colorBlack{
+ color: black;
+}
+   
